@@ -44,4 +44,4 @@ if (p_value < significance_level) {
 ```
 
 
-[![Visualization of the dataset](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/2024-04-20%2018_57_57-RStudio.png)
+![Visualization of the dataset](https://github.com/NattachaiJairak/DADS5001_AFTER_MIDTERM/blob/main/2024-04-20%2018_57_57-RStudio.png)
