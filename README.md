@@ -49,3 +49,4 @@ if (p_value < significance_level) {
 
 ![Visualization of the dataset](https://github.com/NattachaiJairak/Project_Final_DADS6001/blob/main/2024-04-20%2018_57_57-RStudio%20(1).png)  
 
+**File:** [stats_R](https://github.com/NattachaiJairak/Project_Final_DADS6001/blob/main/stats_R.R)
